@@ -7,13 +7,13 @@
 
 ## Compiling the code
 Updating the code will require a new build. If you do not already have unity installed see the instructions below.
-1. Clone the repository from gitHub using "git clone https://github.com/laxlucien/PongGame.git"
-2. Open the file location that you saved the git clone to.
+1. Download the .zip file from Canvas.
+2. Open the file location that you saved the .zip to.
 3. Open Unity or download it at "https://unity.com/download"
   - Follow the Unity instalation guide through the duration of the download.
   - Continue with these steps once Unity instalation is complete
-4. Select the open buttonm in the top right corner.
-5. Navigate to where your cloned repository is downloaded and select the folder.
+4. Select the open button in the top right corner.
+5. Navigate to where the .zip is downloaded and select the folder.
 6. This should open the Unity editor for the game of pong.
 7. In the top left corner of the Unity editor select file -> Build & Run.
 8. Unity will then compile all of the various files and create a pong application that you can click on to play (pong.exe). Note that unity will create 
